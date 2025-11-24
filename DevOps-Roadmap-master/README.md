@@ -6,12 +6,6 @@ This is a step-by-step guide on how to become a DevOps engineer, with links to r
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember that hype and trendy do not always mean best suited for the job.
 
-## Give a Star! :star:
-
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=milanm/DevOps-Roadmap&type=Date)](https://www.star-history.com/#milanm/DevOps-Roadmap&Date)
-
 ## DevOps Roadmap
 
 Here is the complete DevOps roadmap.
